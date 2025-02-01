@@ -1,6 +1,4 @@
 .idea
-myenv/
-venv/
 __pycache__/
 *.iml
 *.pyc
